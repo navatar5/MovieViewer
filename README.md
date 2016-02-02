@@ -35,8 +35,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/TjmVkSI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<iframe class="imgur-embed" width="100%" height="1384" frameborder="0" src="http://i.imgur.com/TjmVkSI.gifv#embed"></iframe>
+http://imgur.com/dIiOfMU
 
 GIF created with QuickTime and converted to GIF with CloudConvert
 
